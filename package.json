@@ -1,0 +1,21 @@
+{
+  "name": "sloth-dev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sloth development environment and automation tools",
+  "dependencies": {
+    "@eslint/js": "^9.39.5",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-simple-import-sort": "latest",
+    "eslint-plugin-unused-imports": "latest",
+    "prettier": "latest"
+  }
+}
